@@ -1,5 +1,5 @@
 # About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Hi, I'm Dave, 
+- 👋 Hi, I'm Dave, 
 - :telescope: an aspiring IT specialist in the field of application development. 
 - :zap: My passion is to work efficiently and productively on projects, whether professionally or privately.
 - 🚀 I strive for constant development and am happy to share my journey and progress here. :seedling:
@@ -14,10 +14,11 @@
 ![Backend Fortschritt](https://img.shields.io/badge/Backend-8%25-red)
 
 #### 📊 GitHub-Statistics
+
+![Followers](https://img.shields.io/github/followers/Davinitiv?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/Davinitiv?style=social)
+
 ![Profilansichten](https://komarev.com/ghpvc/?username=Davinitiv&color=blue)
-
-
-
 
 
 <!--
@@ -33,6 +34,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🚀 Roadmap
+- 📚 **Currently Learning**: Python, JavaScript, SQL
+- 👨‍💻 **Working on**: Automating workflows with GitHub Actions
+
+![Project GIF](https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif)
+
+<img src="https://raw.githubusercontent.com/username/username/main/wave.svg" alt="Waving hand" width="30" height="30"> Hi there! I'm Dave 👋
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![Top-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davinitiv&layout=compact)
 
