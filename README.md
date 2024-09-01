@@ -1,5 +1,5 @@
 # About Me: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- I'm Dave, 
+- Hi, I'm Dave, 
 - :telescope: an aspiring IT specialist in the field of application development. 
 - :zap: My passion is to work efficiently and productively on projects, whether professionally or privately.
 - 🚀 I strive for constant development and am happy to share my journey and progress here. :seedling:
