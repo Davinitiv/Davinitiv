@@ -6,11 +6,11 @@
 
 
 ### 🚀 My Roadmap and learning progress:
-![Python Fortschritt](https://img.shields.io/badge/Python-24%25-orange)
-![Java Fortschritt](https://img.shields.io/badge/Java-16%25-orange)
+![Python Fortschritt](https://img.shields.io/badge/Python-24%25-yellow)
+![Java Fortschritt](https://img.shields.io/badge/Java-17%25-orange)
 ![SQL Fortschritt](https://img.shields.io/badge/SQL-27%25-yellow)
-![Git und GitHub Fortschritt](https://img.shields.io/badge/Git%20und%20GitHub-24%25-yellow)
-![Frontend Fortschritt](https://img.shields.io/badge/Frontend-9%25-red)
+![Git und GitHub Fortschritt](https://img.shields.io/badge/Git%20und%20GitHub-20%25-yellow)
+![Frontend Fortschritt](https://img.shields.io/badge/Frontend-10%25-orange)
 ![Backend Fortschritt](https://img.shields.io/badge/Backend-8%25-red)
 
 #### 📊 GitHub-Statistics
