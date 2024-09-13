@@ -4,8 +4,6 @@
 - :zap: My passion is to work efficiently and productively on projects, whether professionally or privately.
 - 🚀 I strive for constant development and am happy to share my journey and progress here. :seedling:
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66d45fdb553501e3c37a5a64?variant=light&roadmaps=git-github%2Cpython%2Cfrontend%2Cbackend)](https://roadmap.sh)
-
 ### 🚀 My Roadmap and learning progress:
 ![Python Fortschritt](https://img.shields.io/badge/Python-24%25-yellow)
 ![Java Fortschritt](https://img.shields.io/badge/Java-17%25-orange)
