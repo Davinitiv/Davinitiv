@@ -12,10 +12,11 @@
 ![Frontend Fortschritt](https://img.shields.io/badge/Frontend-10%25-orange)
 ![Backend Fortschritt](https://img.shields.io/badge/Backend-8%25-red)
 
-#### 📊 GitHub-Statistics
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Activity
 
-![Followers](https://img.shields.io/github/followers/Davinitiv?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/Davinitiv?style=social)
+<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/717ab5de-882f-480a-b0e4-7b14c5ba3a2f.png" width="600">
+
+#### 📊 GitHub-Statistics
 
 ![Profilansichten](https://komarev.com/ghpvc/?username=Davinitiv&color=blue)
 
