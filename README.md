@@ -5,6 +5,7 @@
 - 🚀 I strive for constant development and am happy to share my journey and progress here. :seedling:
 
 ### 🚀 My Roadmap and learning progress:
+
 ![Python Fortschritt](https://img.shields.io/badge/Python-24%25-yellow)
 ![Java Fortschritt](https://img.shields.io/badge/Java-17%25-orange)
 ![SQL Fortschritt](https://img.shields.io/badge/SQL-27%25-yellow)
@@ -14,7 +15,11 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Activity
 
-<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/717ab5de-882f-480a-b0e4-7b14c5ba3a2f.png" width="600">
+<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/395ffd1a-fe0f-4910-a126-776e133fe52e.png" width="600">
+
+### 📚 Language
+
+<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/1a31c9db-d735-48cf-aee5-3a053a0a6817.png" width="500">
 
 #### 📊 GitHub-Statistics
 
