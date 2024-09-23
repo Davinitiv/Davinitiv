@@ -15,7 +15,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Activity
 
-<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/395ffd1a-fe0f-4910-a126-776e133fe52e.png" width="600">
+<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/395ffd1a-fe0f-4910-a126-776e133fe52e.png" width="500">
 
 ### 📚 Language
 
