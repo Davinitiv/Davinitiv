@@ -1,8 +1,13 @@
 # About Me: 
+
+---
+
 - 👋 Hi, I'm Dave, 
 - :telescope: an aspiring IT specialist in the field of application development. 
 - :zap: My passion is to work efficiently and productively on projects, whether professionally or privately.
 - 🚀 I strive for constant development and am happy to share my journey and progress here. :seedling:
+
+---
 
 ### 🚀 My Roadmap and learning progress:
 
@@ -13,15 +18,12 @@
 ![Frontend Fortschritt](https://img.shields.io/badge/Frontend-10%25-orange)
 ![Backend Fortschritt](https://img.shields.io/badge/Backend-8%25-red)
 
-<!--
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Activity
+---
 
-<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/395ffd1a-fe0f-4910-a126-776e133fe52e.png" width="500">
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Activity and 📚 Language
 
-### 📚 Language
+<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/395ffd1a-fe0f-4910-a126-776e133fe52e.png" width="300">   <img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/1a31c9db-d735-48cf-aee5-3a053a0a6817.png" width="300">
 
-<img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/1a31c9db-d735-48cf-aee5-3a053a0a6817.png" width="500">
--->
 
 #### 📊 GitHub-Statistics
 
