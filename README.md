@@ -10,14 +10,7 @@
 ---
 
 ### 🚀 My Roadmap and learning progress:
-
-![Python Fortschritt](https://img.shields.io/badge/Python-24%25-yellow)
-![Java Fortschritt](https://img.shields.io/badge/Java-17%25-orange)
-![SQL Fortschritt](https://img.shields.io/badge/SQL-27%25-yellow)
-![Git und GitHub Fortschritt](https://img.shields.io/badge/Git%20und%20GitHub-20%25-yellow)
-![Frontend Fortschritt](https://img.shields.io/badge/Frontend-10%25-orange)
-![Backend Fortschritt](https://img.shields.io/badge/Backend-8%25-red)
-
+[![roadmap.sh](https://roadmap.sh/card/tall/66d45fdb553501e3c37a5a64?variant=dark&roadmaps=java%2Cpython%2C66f421e3c45e253cb05ae628%2Cgit-github)](https://roadmap.sh)
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding Activity and 📚 Language
@@ -63,3 +56,4 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Sprachen und Tools :
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 -->
+
