@@ -7,7 +7,7 @@
 - 🚀 I strive for constant development and am happy to share my journey and progress here. :seedling:
 
 ---
-### 🚀 My Roadmap and learning progress:
+### 🚀 My Roadmap and learning progress
 
 <p align="left">
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d45fdb553501e3c37a5a64?variant=dark" alt="roadmap.sh" width="300"/></a>
@@ -23,14 +23,17 @@
 </p>
 </td></tr></table>
 
+---
+![Profilansichten](https://komarev.com/ghpvc/?username=Davinitiv&color=blue)
+
+<!--
 <table><tr><td>
 <p align="center">
 <img src="https://wakatime.com/share/@248d360e-01b2-4307-9f4f-283de3c62692/395ffd1a-fe0f-4910-a126-776e133fe52e.png" width="460" height="auto">
 </p>
 </td></tr></table>
+-->
 
----
-![Profilansichten](https://komarev.com/ghpvc/?username=Davinitiv&color=blue)
 
 
 
