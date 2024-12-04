@@ -10,7 +10,7 @@
 ### 🚀 My Roadmap and learning progress
 
 <p align="left">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d45fdb553501e3c37a5a64?variant=dark" alt="roadmap.sh" width="300"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d45fdb553501e3c37a5a64?variant=dark&roadmaps=python%2Cgit-github%2Csql%2Cprompt-engineering" alt="roadmap.sh"/></a>
 </p>
 
 ---
