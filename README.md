@@ -1,6 +1,5 @@
 ---
 ### About Me: 
-
 - 👋 Hi, I'm Dave, 
 - :telescope: an aspiring IT specialist in the field of application development. 
 - :zap: My passion is to work efficiently and productively on projects, whether professionally or privately.
@@ -10,7 +9,7 @@
 ### 🚀 My Roadmap and learning progress
 
 <p align="left">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d45fdb553501e3c37a5a64?variant=dark&roadmaps=python%2Cgit-github%2Csql%2Cprompt-engineering" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66d45fdb553501e3c37a5a64?variant=dark&roadmaps=python%2Cgit-github%2Cprompt-engineering%2Csql" alt="roadmap.sh"/></a>
 </p>
 
 ---
